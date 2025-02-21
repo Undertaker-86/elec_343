@@ -1,0 +1,20 @@
+﻿Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7
+,Task 4,,,,,,
+,"Duty Cycle, d",0.5,,,,,
+,V1(ave)[V],25,,,,,
+,I1(ave)[A],3.9,,,,,
+,Current Ripple [A],2.1,,,,,
+,P1(ave) [W],99,,,,,
+,,,,,,,
+,V2(ave)[V],19.7,,,,,
+,I2(ave)[A],2.23,,,,,
+,P2(ave) [W],43.8,,,,,
+,,,,,,,
+,n [RPM],920,,,,,
+,Tm [Nm],0.72,,,,,
+,Use the set of measurements and complete the following section of this table,,,,,,
+,Input to Inverter Box,,Input Power at the DC Motor Terminals P_dcmot [W],Output Mechanical Power Pm [W],"Efficiency of the inverter, % (P_dcmot/Pinv)","Efficiency of the motor, % (P_inv/P_dcmot)","Efficiency of the inverter-motor Combined, % (P_m/P_inv)"
+,Voltage [Vdc],Current [A],,,,,
+,5,2,,,,,
+,Total input power to inverter box Pinv [W],,,,,,
+,10,,99,43.8,9.9,0.101010101,4.38
